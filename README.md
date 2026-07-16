@@ -3,7 +3,6 @@
 ###
 
 <h2 data-importer="text" align="left">👩‍💻  About Me :</h2>
-###
 
 <img data-importer="image" align="right" height="180" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3JoaWg0NzJmeGtwaXJqOWFnN3U4cGl4NWkyZzB4NjY0eDF2NmtnZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  />
 
