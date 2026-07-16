@@ -2,11 +2,10 @@
 
 ###
 
-<img data-importer="image" align="right" height="180" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3JoaWg0NzJmeGtwaXJqOWFnN3U4cGl4NWkyZzB4NjY0eDF2NmtnZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  />
-
+<h2 data-importer="text" align="left">👩‍💻  About Me :</h2>
 ###
 
-<h2 data-importer="text" align="left">👩‍💻  About Me :</h2>
+<img data-importer="image" align="right" height="180" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3JoaWg0NzJmeGtwaXJqOWFnN3U4cGl4NWkyZzB4NjY0eDF2NmtnZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  />
 
 ###
 
@@ -87,19 +86,6 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
 
-###
-
-<div data-importer="activities" align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
-</div>
 
 ###
 
@@ -107,18 +93,3 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=9&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
-###
-
-###
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=its-suraj7190&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=its-suraj7190&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/its-suraj7190) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
