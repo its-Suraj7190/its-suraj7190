@@ -1,22 +1,26 @@
-<h2 data-importer="text" align="center">Namaste, Everyone 🙏</h2>
+<h1 data-importer="text" align="center">Namaste, Everyone 🙏</h1>
 
 ###
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3JoaWg0NzJmeGtwaXJqOWFnN3U4cGl4NWkyZzB4NjY0eDF2NmtnZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  />
+<img data-importer="image" align="right" height="180" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3JoaWg0NzJmeGtwaXJqOWFnN3U4cGl4NWkyZzB4NjY0eDF2NmtnZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  />
+
+###
+
+<h2 data-importer="text" align="left">👩‍💻  About Me :</h2>
+
+###
+
+<p data-importer="text" align="left">I'm Suraj Rai from Nepal 🇳🇵.<br><br>- 📚 I'm currently a student (in Dong-Eui University)</p>
+
+###
+
+<div data-importer="profile-views" align="left">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=its-Suraj7190.its-Suraj7190&left_text=Profile%20Viewers%20:"  />
 </div>
 
 ###
 
-<h3 data-importer="text" align="left">👩‍💻  About Me :</h3>
-
-###
-
-<p data-importer="text" align="left">I'm Suraj Rai from Nepal.<br><br>- 📚 I'm currently a learning student.</p>
-
-###
-
-<h3 data-importer="text" align="left">Languages  :</h3>
+<h2 data-importer="text" align="left">Languages :</h2>
 
 ###
 
@@ -26,12 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
 
 ###
@@ -45,14 +43,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo"  />
 </div>
 
 ###
 
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
+<h3 data-importer="text" align="left">🔥   My Status :</h3>
 
 ###
 
@@ -69,11 +69,15 @@
 
 ###
 
+<h3 data-importer="text" align="left">My Activities :</h3>
+
+###
+
 <img data-importer="snake" src="https://raw.githubusercontent.com/its-Suraj7190/its-Suraj7190/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
-<h2 data-importer="text" align="left">Social Links :</h2>
+<h3 data-importer="text" align="left">Social Links :</h3>
 
 ###
 
@@ -85,9 +89,25 @@
 
 ###
 
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=4&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+<div data-importer="activities" align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
+  </a>
 </div>
+
+###
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=9&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
 
 ###
 
