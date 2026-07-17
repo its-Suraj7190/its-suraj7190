@@ -7,14 +7,14 @@
 <br>
 
 <p data-importer="text" align="left">I'm Suraj Rai from Nepal 🇳🇵.</p>
-<p>- 📚 I'm currently a student (in Dong-Eui University)</p>
+<p>- 📚 I'm currently a student (<a href="https://www.deu.ac.kr/www/index.do" target="_blank" rel="noopener noreferrer">Dong-Eui University</a>)</p>
 <p>- 🔭 I’m currently working on <a href="https://github.com/its-Suraj7190/Scalable_Tic_tac_toe_Arithmetic_Edt" target="_blank" rel="noopener noreferrer"</a> Scalable Arithmetic tic-tac-toe .</p>
 <p>- 🌱 I’m currently learning OOP(C++), Embedding System</p>
 <p>- 📝 All my Mathematical Research Papers avaiable at <a href="https://orcid.org/0009-0009-9320-8962" target="_blank"rel="noopener noreferrer"</a>Suraj ORCID Profile</p>
 </p>
 
 <br>
-<h2 data-importer="text" align="left"><i class="fa-solid fa-code"></i> &nbsp;Languages :</h2>
+<h2 data-importer="text" align="left"></>&nbsp;Languages :</h2>
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
