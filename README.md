@@ -14,7 +14,7 @@
 </p>
 
 <br>
-<h2 data-importer="text" align="left">'</>'&nbsp;Languages :</h2>
+<h2 data-importer="text" align="left">&lt;/&gt; &nbsp;Languages :</h2>
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -43,7 +43,7 @@
 </div>
 
 <br>
-<h2 data-importer="text" align="left">🔥  My Status :</h2>
+<h2 data-importer="text" align="left">📈 My Status :</h2>
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=its-Suraj7190&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
@@ -59,20 +59,19 @@
 </div>
 
 <br>
-<h2 data-importer="text" align="left">📈&nbsp;My Activities :</h2>
+<h2 data-importer="text" align="left">⚡&nbsp;My Activities :</h2>
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/its-Suraj7190/its-Suraj7190/snake-output/snake.svg" alt="Snake animation" />
 
 
 <br>
-<h2 data-importer="text" align="left">Social Links :</h2>
+<h2 data-importer="text" align="left">🌐  Social Links :</h2>
 <div data-importer="socials" align="left">
 <a href="https://www.facebook.com/surajrayee7190gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  /></a>
 <a href="https://www.instagram.com/surazz_raaii?igsh=Y2R1ZWtmZnU2N3lm"target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
 <a href="mailto:surajrayee7190@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
 </div>
 
-
-<div data-importer="border">
-  <img style="200%" src="https://capsule-render.vercel.app/api?type=cylinder&height=9&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+<div style="border-top: 1px solid #ccc; width: 100%;">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=9&section=header&theme=cobalt" style="width:100%;" />
 </div>
