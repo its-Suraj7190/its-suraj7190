@@ -6,7 +6,7 @@
 
 <br>
 
-<p data-importer="text" align="left">I'm Suraj Rai from Nepal <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg" alt="Nepal Flag" width="40"/>/img>.</p>
+<p data-importer="text" align="left">I'm Suraj Rai from Nepal <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg" alt="Nepal Flag" width="10"/>/img>.</p>
 <p>- 📚 I'm currently a student (<a href="https://www.deu.ac.kr/www/index.do" target="_blank" rel="noopener noreferrer">Dong-Eui University</a>)</p>
 <p>- 🔭 I’m currently working on <a href="https://github.com/its-Suraj7190/Scalable_Tic_tac_toe_Arithmetic_Edt" target="_blank" rel="noopener noreferrer"</a> Scalable Arithmetic tic-tac-toe .</p>
 <p>- 🌱 I’m currently learning OOP(C++), Embedding System</p>
