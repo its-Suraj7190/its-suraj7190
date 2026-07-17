@@ -91,11 +91,9 @@
 </div>
 
 ###
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=its-suraj7190&label=Profile%20views&color=0e75b6&style=flat" alt="its-suraj7190" /> </p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=its-suraj7190" alt="its-suraj7190" /></a> </p>
 
 ###
-
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=9&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
