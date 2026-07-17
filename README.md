@@ -14,7 +14,7 @@
 </p>
 
 <br>
-<h2 data-importer="text" align="left"></>&nbsp;Languages :</h2>
+<h2 data-importer="text" align="left">'</>'&nbsp;Languages :</h2>
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -59,7 +59,7 @@
 </div>
 
 <br>
-<h2 data-importer="text" align="left">My Activities :</h2>
+<h2 data-importer="text" align="left">📈&nbsp;My Activities :</h2>
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/its-Suraj7190/its-Suraj7190/snake-output/snake.svg" alt="Snake animation" />
 
