@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="center">Namaste, Everyone 🙏</h1>
+<h1 data-importer="text" align="center">Namaste, Everyone 🙏 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg" alt="Nepal Flag" width="20"/>/img></h1>
 
 <h2 data-importer="text" align="left">👩‍💻  About Me :</h2>
 
