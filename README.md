@@ -7,10 +7,10 @@
 <br>
 
 <p data-importer="text" align="left">I'm Suraj Rai from Nepal &nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg" alt="Nepal Flag" width="10"/>.</p>
-<p>- 📚 I'm currently a student (<a href="https://www.deu.ac.kr/www/index.do" target="_blank" rel="noopener noreferrer">Dong-Eui University</a>)</p>
-<p>- 🔭 I’m currently working on <a href="https://github.com/its-Suraj7190/Scalable_Tic_tac_toe_Arithmetic_Edt" target="_blank" rel="noopener noreferrer"</a> Scalable Arithmetic tic-tac-toe .</p>
+<p>- 📚 I'm currently a student (<a href="https://www.deu.ac.kr/www/index.do" target="_blank" rel="noopener noreferrer"style="text-decoration: none;">Dong-Eui University</a>)</p>
+<p>- 🔭 I’m currently working on <a href="https://github.com/its-Suraj7190/Scalable_Tic_tac_toe_Arithmetic_Edt" target="_blank" rel="noopener noreferrer"style="text-decoration: none;"</a> Scalable Arithmetic tic-tac-toe .</p>
 <p>- 🌱 I’m currently learning OOP(C++), Embedding System</p>
-<p>- 📝 Mathematical Research Papers avaiable at <a href="https://orcid.org/0009-0009-9320-8962" target="_blank"rel="noopener noreferrer"</a>Suraj ORCID Profile</p>
+<p>- 📝 Mathematical Research Papers avaiable at <a href="https://orcid.org/0009-0009-9320-8962" target="_blank"rel="noopener noreferrer"style="text-decoration: none;"</a>Suraj ORCID Profile</p>
 </p>
 
 <br>
