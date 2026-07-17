@@ -14,7 +14,7 @@
 </p>
 
 <br>
-<h2 data-importer="text" align="left">Languages :</h2>
+<h2 data-importer="text" align="left"><i class="fa-solid fa-code"></i> &nbsp;Languages :</h2>
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
