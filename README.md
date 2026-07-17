@@ -90,6 +90,9 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
 
+###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=its-suraj7190&label=Profile%20views&color=0e75b6&style=flat" alt="its-suraj7190" /> </p>
+
 
 ###
 
