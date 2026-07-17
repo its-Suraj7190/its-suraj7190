@@ -10,7 +10,7 @@
 <p>- 📚 I'm currently a student (<a href="https://www.deu.ac.kr/www/index.do" target="_blank" rel="noopener noreferrer">Dong-Eui University</a>)</p>
 <p>- 🔭 I’m currently working on <a href="https://github.com/its-Suraj7190/Scalable_Tic_tac_toe_Arithmetic_Edt" target="_blank" rel="noopener noreferrer"</a> Scalable Arithmetic tic-tac-toe .</p>
 <p>- 🌱 I’m currently learning OOP(C++), Embedding System</p>
-<p>- 📝 All my Mathematical Research Papers avaiable at <a href="https://orcid.org/0009-0009-9320-8962" target="_blank"rel="noopener noreferrer"</a>Suraj ORCID Profile</p>
+<p>- 📝 Mathematical Research Papers avaiable at <a href="https://orcid.org/0009-0009-9320-8962" target="_blank"rel="noopener noreferrer"</a>Suraj ORCID Profile</p>
 </p>
 
 <br>
