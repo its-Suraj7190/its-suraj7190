@@ -5,14 +5,14 @@ on:
     - cron: "* */12 * * *"
 
   workflow_dispatch:
-  
-permissions:
-  contents: write
-  
+    
   push:
     branches:
     - main
 
+permissions:
+  contents: write
+  
 jobs:
   generate:
     permissions:
